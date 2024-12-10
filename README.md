@@ -1,5 +1,5 @@
 # DIGITAL_CLOCK_PYTHON_PROJECT
-We have created digital clock using Tkinter.As we know Tkinter is used to create a variety of GUI (Graphical User Interface) applications. Using Label widget from Tkinter and time module ,
+I have created digital clock using Tkinter.As we know Tkinter is used to create a variety of GUI (Graphical User Interface) applications. Using Label widget from Tkinter and time module ,
 In the following application, we  have used Label widget and also  time module which is used to retrieve system’s time.
 Function call and Run Application: Here in this step we will call the function to get current time and will use mainloop() function to Run Application.
 
